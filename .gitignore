@@ -1,3 +1,5 @@
-.pyc
+*.pyc
 idea/
-__pycache__/
+3rdparty/StarCraftII/SC2Data/indices
+3rdparty/StarCraftII/Battle.net/Cache
+
